@@ -1,0 +1,97 @@
+%%%%%%%%%%%%%%%
+% This CV is made using the template from LianTze Lim:
+% https://www.overleaf.com/16456399bnxqhtkjwzft#/63153901/
+%
+\documentclass[a4paper,skipsamekey,11pt,british]{curve}
+
+\usepackage{settings}
+
+% to use asterix for footnote and share footnotes
+\usepackage[symbol]{footmisc}
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+
+% Change the fonts if you want
+\ifxetexorluatex % If you're using XeLaTeX or LuaLaTeX
+  \usepackage{fontspec}
+  %% Warning: EB Garamond contains no bold!! Substituting for Junicode Bold, but *may not look nice nor consistent*!!
+%   \setmainfont[Ligatures=TeX,SmallCapsFeatures={Letters=SmallCaps,LetterSpace=5},BoldFont=Junicode Bold]{EB Garamond}
+  %% Charis SIL's rather nice, actually.
+  \setmainfont[Ligatures=TeX,SmallCapsFeatures={Letters=SmallCaps,LetterSpace=5}]{Charis SIL}
+  \setsansfont[Ligatures=TeX]{Lato}
+  \setmonofont{Inconsolata}
+\else % If you're using pdfLaTeX or latex
+  \usepackage[utf8]{inputenc}
+  \usepackage[T1]{fontenc}
+  \usepackage[tracking=smallcaps]{microtype}
+  \usepackage{fbb}
+  \usepackage[type1]{cabin}
+  \usepackage[varqu,varl]{zi4}
+  \useosf  %% Comment out if you prefer lining figures rather than old style figures
+\fi
+\usepackage{csquotes}
+
+%% Only needed if you want a Publication List
+\addbibresource{own-bib.bib}
+
+%% Specify your last name and first name (as given in the .bib) to automatically bold your own name in the publications list. One caveat: You need to write \bibnamedelima where there's a space in your name for this to work properly for now...
+\myname{Klein}{Niek}
+% Change the page margins if you want
+% \geometry{left=1cm,right=1cm,top=1.5cm,bottom=1.5cm}
+
+% Change the colours if you want
+% \definecolor{SwishLineColour}{HTML}{00FFFF}
+% \definecolor{MarkerColour}{HTML}{0000CC}
+
+% Change the item prefix marker if you want
+% \prefixmarker{$\diamond$}
+
+%% Photo is only shown if "fullonly" is included
+% \includecomment{fullonly}
+\excludecomment{fullonly}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\leftheader{%
+  {\LARGE\bfseries\sffamily Niek de Klein}
+
+  \makefield{\faEnvelopeO}{\texttt{niekdeklein@gmail.com}} \par
+  \makefield{\faGlobe}{\url{https://github.com/npklein}} \par
+  \makefield{\faGlobe}{\url{https://scholar.google.com/citations?user=QNwjBnwAAAAJ&hl}}
+
+}
+
+\rightheader{~}
+\begin{fullonly}
+\photo[r]{photo}
+\photoscale{0.13}
+\end{fullonly}
+
+\title{Curriculum Vitae}
+
+\begin{document}
+\makeheaders[c]
+
+\makerubric{education}
+
+\makerubric{teaching}
+%\makerubric{employment}
+
+\makerubric{internships}
+
+\makerubric{grants}
+
+
+% If you're not a researcher nor an academic, you probably don't have any publications; delete this line.
+%% Sometimes when a section can't be nicely modelled with the \entry[]... mechanism; hack our own and use \input NOT \makerubric
+\input{publications}
+
+\makerubric{misc}
+
+\makerubric{skills}
+
+\makerubric{referee}
+% \input{referee-full}
+
+\end{document}

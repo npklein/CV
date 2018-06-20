@@ -1,0 +1,669 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ydnt/global//global/global}
+    \entry{barbieri2018op011}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{uniquename=0,uniquepart=base,hash=6df2cabbb9f934d6062519009e1bea78}{%
+           family={Barbieri},
+           familyi={B\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=71eb2ec8219e6c008503e6609fa9e884}{%
+           family={Uniken\bibnamedelima Venema},
+           familyi={U\bibinitperiod\bibinitdelim V\bibinitperiod},
+           given={W},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=45b3a05228bf86735c3227df62590284}{%
+           family={Vich\bibnamedelima Vila},
+           familyi={V\bibinitperiod\bibinitdelim V\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=66d548e0e670e107fc4a80dc0c3825b3}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Y},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f6595e3829e8662f4c91670ca69a7c3b}{%
+           family={Franke},
+           familyi={F\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=278d0faba016fc7732ea68c659ea143b}{%
+           family={Dijk},
+           familyi={D\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod},
+           givenun=0,
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=56621c7f8e41a7c493d46b70563d4cfa}{%
+           family={De\bibnamedelima Klein},
+           familyi={D\bibinitperiod\bibinitdelim K\bibinitperiod},
+           given={N},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=abfde8c6f007c1a3f8dbdd25b1d3b24b}{%
+           family={Swertz},
+           familyi={S\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ac5e809de889110b94e24859d42a696e}{%
+           family={Sanna},
+           familyi={S\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=52e364066a41c0ff82237bfdf47404cd}{%
+           family={Voskuil},
+           familyi={V\bibinitperiod},
+           given={MD},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{9d2f21f3f702320e9da20262e0a43497}
+      \strng{fullhash}{425d960e6f1206f9227f0dd636c0463f}
+      \strng{bibnamehash}{f0819705524286c84fe435ed16c775ab}
+      \strng{authorbibnamehash}{f0819705524286c84fe435ed16c775ab}
+      \strng{authornamehash}{9d2f21f3f702320e9da20262e0a43497}
+      \strng{authorfullhash}{425d960e6f1206f9227f0dd636c0463f}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Crohn's and Colitis}
+      \field{number}{supplement\_1}
+      \field{title}{OP011 Integration of whole-exome sequencing and RNA sequencing of intestinal biopsies in inflammatory bowel disease identifies inflammation-dependent effects}
+      \field{volume}{12}
+      \field{year}{2018}
+      \field{pages}{S008\bibrangedash S009}
+      \range{pages}{-1}
+    \endentry
+    \entry{claringbould2017genetic}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=c29a6660730768656cdf675e9b208e42}{%
+           family={Claringbould\footnote[1]{contributed\bibnamedelimb equally\label{equal}}},
+           familyi={C\bibinitperiod},
+           given={Annique},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c957085ae5fa9494167c370e558b9f99}{%
+           family={\textbf{de\bibnamedelimb Klein\footref{equal},\bibnamedelimb Niek}},
+           familyi={\\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=940ca1f1f12dca6767f77c75027b7c00}{%
+           family={Franke},
+           familyi={F\bibinitperiod},
+           given={Lude},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{618d6969e95d360d98c40d48e601795e}
+      \strng{fullhash}{618d6969e95d360d98c40d48e601795e}
+      \strng{bibnamehash}{618d6969e95d360d98c40d48e601795e}
+      \strng{authorbibnamehash}{618d6969e95d360d98c40d48e601795e}
+      \strng{authornamehash}{618d6969e95d360d98c40d48e601795e}
+      \strng{authorfullhash}{618d6969e95d360d98c40d48e601795e}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Current Opinion in Systems Biology}
+      \field{title}{The genetic architecture of molecular traits}
+      \field{volume}{1}
+      \field{year}{2017}
+      \field{pages}{25\bibrangedash 31}
+      \range{pages}{7}
+    \endentry
+    \entry{zhernakova2017identification}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{uniquename=0,uniquepart=base,hash=0908f0cd34143b16b911a372da4caf85}{%
+           family={Zhernakova},
+           familyi={Z\bibinitperiod},
+           given={Daria\bibnamedelima V},
+           giveni={D\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=fe3fd7a32c0dcfe29cf59f69d3179131}{%
+           family={Deelen},
+           familyi={D\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2db9a0362ed6d4f47bef6cd52c997358}{%
+           family={Vermaat},
+           familyi={V\bibinitperiod},
+           given={Martijn},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a183c5e95dc5307fc20ff96eea7223a0}{%
+           family={Iterson},
+           familyi={I\bibinitperiod},
+           given={Maarten},
+           giveni={M\bibinitperiod},
+           givenun=0,
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=6bc54d0b83878a2695ab65a87c19efa6}{%
+           family={Galen},
+           familyi={G\bibinitperiod},
+           given={Michiel},
+           giveni={M\bibinitperiod},
+           givenun=0,
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=a115adcd4a99a80cf4255a5ebafd5dda}{%
+           family={Arindrarto},
+           familyi={A\bibinitperiod},
+           given={Wibowo},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=742fd4b7d55aabec3104b0d9185c7ba7}{%
+           family={Hof},
+           familyi={H\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0,
+           prefix={van't},
+           prefixi={v\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=d6e73c1e64232411a0c791a49c2d9e4b}{%
+           family={Mei},
+           familyi={M\bibinitperiod},
+           given={Hailiang},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ce5b0da7b472354ba337a073c04c4915}{%
+           family={Dijk},
+           familyi={D\bibinitperiod},
+           given={Freerk},
+           giveni={F\bibinitperiod},
+           givenun=0,
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=2d010cbd3ece31bdec9ef8f44a13882e}{%
+           family={Westra},
+           familyi={W\bibinitperiod},
+           given={Harm-Jan},
+           giveni={H\bibinithyphendelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{a86280ad1af97832f3242ca513517127}
+      \strng{fullhash}{bb1a6d517c2d8032b70e0debddb7d772}
+      \strng{bibnamehash}{86b2f3cd14d04623216c765dcab9a2ca}
+      \strng{authorbibnamehash}{86b2f3cd14d04623216c765dcab9a2ca}
+      \strng{authornamehash}{a86280ad1af97832f3242ca513517127}
+      \strng{authorfullhash}{bb1a6d517c2d8032b70e0debddb7d772}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature genetics}
+      \field{number}{1}
+      \field{title}{Identification of context-dependent expression quantitative trait loci in whole blood}
+      \field{volume}{49}
+      \field{year}{2017}
+      \field{pages}{139}
+      \range{pages}{1}
+    \endentry
+    \entry{fiume2016framework}{incollection}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=324981dce4ffc12a7ae3882f0596abcf}{%
+           family={Fiume},
+           familyi={F\bibinitperiod},
+           given={Elisa},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=31f99addf0ab58c09acdc3ef65aaeba7}{%
+           family={Klein},
+           familyi={K\bibinitperiod},
+           given={Niek},
+           giveni={N\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=f5563a93a1d72438a0ee9bb457178861}{%
+           family={Rhee},
+           familyi={R\bibinitperiod},
+           given={Seung\bibnamedelima Yon},
+           giveni={S\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=544c58ee29888d74aa2607e58c466991}{%
+           family={Magnani},
+           familyi={M\bibinitperiod},
+           given={Enrico},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Humana Press, New York, NY}%
+      }
+      \strng{namehash}{a40b22829144e2aca6cccaac8b3405c7}
+      \strng{fullhash}{a40b22829144e2aca6cccaac8b3405c7}
+      \strng{bibnamehash}{a40b22829144e2aca6cccaac8b3405c7}
+      \strng{authorbibnamehash}{a40b22829144e2aca6cccaac8b3405c7}
+      \strng{authornamehash}{a40b22829144e2aca6cccaac8b3405c7}
+      \strng{authorfullhash}{a40b22829144e2aca6cccaac8b3405c7}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Plant Synthetic Promoters}
+      \field{title}{A Framework for Discovering, Designing, and Testing MicroProteins to Regulate Synthetic Transcriptional Modules}
+      \field{year}{2016}
+      \field{pages}{175\bibrangedash 188}
+      \range{pages}{14}
+    \endentry
+    \entry{graham2016tmem258}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{uniquename=0,uniquepart=base,hash=83cf3bc616082867ed97dbe225c0fde1}{%
+           family={Graham},
+           familyi={G\bibinitperiod},
+           given={Daniel\bibnamedelima B},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0053c9a652aa6b65bb446500f550fe8d}{%
+           family={Lefkovith},
+           familyi={L\bibinitperiod},
+           given={Ariel},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=fe3fd7a32c0dcfe29cf59f69d3179131}{%
+           family={Deelen},
+           familyi={D\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=31f99addf0ab58c09acdc3ef65aaeba7}{%
+           family={Klein},
+           familyi={K\bibinitperiod},
+           given={Niek},
+           giveni={N\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=b48a8fab15e9811cc022e7ef406462b1}{%
+           family={Varma},
+           familyi={V\bibinitperiod},
+           given={Mukund},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=4debea6ec7dcb1b6b9e3ac5ae085d8b4}{%
+           family={Boroughs},
+           familyi={B\bibinitperiod},
+           given={Angela},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=167722d48efbe9d0b045ef1d86da00e0}{%
+           family={Desch},
+           familyi={D\bibinitperiod},
+           given={A\bibnamedelima Nicole},
+           giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5e173631dd65f7bf9d6ff6fd8d2c07f8}{%
+           family={Ng},
+           familyi={N\bibinitperiod},
+           given={Aylwin\bibnamedelima CY},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d714867419341ba026cc9ea16382d653}{%
+           family={Guzman},
+           familyi={G\bibinitperiod},
+           given={Gaelen},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7ef27fcd0b7c7f09be83244061ea3733}{%
+           family={Schenone},
+           familyi={S\bibinitperiod},
+           given={Monica},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cell Press}%
+      }
+      \strng{namehash}{1c52e343188e9ff51fcfab8a640e86e3}
+      \strng{fullhash}{10749ae4788d84256206e13645ee8d75}
+      \strng{bibnamehash}{09d9595c8a54d027a2e36f3302f78b18}
+      \strng{authorbibnamehash}{09d9595c8a54d027a2e36f3302f78b18}
+      \strng{authornamehash}{1c52e343188e9ff51fcfab8a640e86e3}
+      \strng{authorfullhash}{10749ae4788d84256206e13645ee8d75}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cell reports}
+      \field{number}{11}
+      \field{title}{TMEM258 is a component of the oligosaccharyltransferase complex controlling ER stress and intestinal inflammation}
+      \field{volume}{17}
+      \field{year}{2016}
+      \field{pages}{2955\bibrangedash 2965}
+      \range{pages}{11}
+    \endentry
+    \entry{rodius2016analysis}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{uniquename=0,uniquepart=base,hash=635d401df29ff0b3b36900050099d9a4}{%
+           family={Rodius},
+           familyi={R\bibinitperiod},
+           given={Sophie},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bf037659c74cf24d2cd0690b5e64f274}{%
+           family={Androsova},
+           familyi={A\bibinitperiod},
+           given={Ganna},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5c1f04f727ea2c981124fefb92ebb45c}{%
+           family={G{ö}tz},
+           familyi={G\bibinitperiod},
+           given={Lou},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8f8506e373f1209ce473a372d0864ab0}{%
+           family={Liechti},
+           familyi={L\bibinitperiod},
+           given={Robin},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c60a06aec064999bfa4e7ccc0284b630}{%
+           family={Crespo},
+           familyi={C\bibinitperiod},
+           given={Isaac},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c31b7fbf60251e1726ca450740c47d35}{%
+           family={Merz},
+           familyi={M\bibinitperiod},
+           given={Susanne},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=fa9a40fcab64a0b791133c0ea939fddc}{%
+           family={Nazarov},
+           familyi={N\bibinitperiod},
+           given={Petr\bibnamedelima V},
+           giveni={P\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=31f99addf0ab58c09acdc3ef65aaeba7}{%
+           family={Klein},
+           familyi={K\bibinitperiod},
+           given={Niek},
+           giveni={N\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=f7699575f1177468d744a56e25f17412}{%
+           family={Jeanty},
+           familyi={J\bibinitperiod},
+           given={C{é}line},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2154192d413dc40595e8589e78d77726}{%
+           family={Gonz{á}lez-Rosa},
+           familyi={G\bibinithyphendelim R\bibinitperiod},
+           given={Juan\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{1a11d0d0683848615cb8e8359eb7291e}
+      \strng{fullhash}{6a008731a2bed0af47d78831881c7bc1}
+      \strng{bibnamehash}{e6aa03438f9a1f651ab1d7d9a7b3a65d}
+      \strng{authorbibnamehash}{e6aa03438f9a1f651ab1d7d9a7b3a65d}
+      \strng{authornamehash}{1a11d0d0683848615cb8e8359eb7291e}
+      \strng{authorfullhash}{6a008731a2bed0af47d78831881c7bc1}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientific reports}
+      \field{title}{Analysis of the dynamic co-expression network of heart regeneration in the zebrafish}
+      \field{volume}{6}
+      \field{year}{2016}
+      \field{pages}{26822}
+      \range{pages}{1}
+    \endentry
+    \entry{klein2015gene}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=31f99addf0ab58c09acdc3ef65aaeba7}{%
+           family={Klein},
+           familyi={K\bibinitperiod},
+           given={Niek},
+           giveni={N\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=fd9e4054d9dd704e9f05399f93650b8c}{%
+           family={Ibberson},
+           familyi={I\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c60a06aec064999bfa4e7ccc0284b630}{%
+           family={Crespo},
+           familyi={C\bibinitperiod},
+           given={Isaac},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=635d401df29ff0b3b36900050099d9a4}{%
+           family={Rodius},
+           familyi={R\bibinitperiod},
+           given={Sophie},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1564253ec09a9ea4809b0ecbcdc944c4}{%
+           family={Azuaje},
+           familyi={A\bibinitperiod},
+           given={Francisco},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Frontiers}%
+      }
+      \strng{namehash}{8430e3767e724cccd8e53b9fff611371}
+      \strng{fullhash}{8430e3767e724cccd8e53b9fff611371}
+      \strng{bibnamehash}{8430e3767e724cccd8e53b9fff611371}
+      \strng{authorbibnamehash}{8430e3767e724cccd8e53b9fff611371}
+      \strng{authornamehash}{8430e3767e724cccd8e53b9fff611371}
+      \strng{authorfullhash}{8430e3767e724cccd8e53b9fff611371}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in genetics}
+      \field{title}{A gene mapping bottleneck in the translational route from zebrafish to human}
+      \field{volume}{5}
+      \field{year}{2015}
+      \field{pages}{470}
+      \range{pages}{1}
+    \endentry
+    \entry{de2015microprotein}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=31f99addf0ab58c09acdc3ef65aaeba7}{%
+           family={Klein},
+           familyi={K\bibinitperiod},
+           given={Niek},
+           giveni={N\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=544c58ee29888d74aa2607e58c466991}{%
+           family={Magnani},
+           familyi={M\bibinitperiod},
+           given={Enrico},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=736ae9e377a3cdde9f724b92e51f6603}{%
+           family={Banf},
+           familyi={B\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f5563a93a1d72438a0ee9bb457178861}{%
+           family={Rhee},
+           familyi={R\bibinitperiod},
+           given={Seung\bibnamedelima Yon},
+           giveni={S\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Hindawi}%
+      }
+      \strng{namehash}{4e00c40998dd3c9c9ff67a9a961593e1}
+      \strng{fullhash}{4e00c40998dd3c9c9ff67a9a961593e1}
+      \strng{bibnamehash}{4e00c40998dd3c9c9ff67a9a961593e1}
+      \strng{authorbibnamehash}{4e00c40998dd3c9c9ff67a9a961593e1}
+      \strng{authornamehash}{4e00c40998dd3c9c9ff67a9a961593e1}
+      \strng{authorfullhash}{4e00c40998dd3c9c9ff67a9a961593e1}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International journal of genomics}
+      \field{title}{microProtein Prediction Program (miP3): a software for predicting microProteins and their target transcription factors}
+      \field{volume}{2015}
+      \field{year}{2015}
+    \endentry
+    \entry{magnani2014comprehensive}{article}{}
+      \name{author}{8}{}{%
+        {{uniquename=0,uniquepart=base,hash=544c58ee29888d74aa2607e58c466991}{%
+           family={Magnani},
+           familyi={M\bibinitperiod},
+           given={Enrico},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=31f99addf0ab58c09acdc3ef65aaeba7}{%
+           family={Klein},
+           familyi={K\bibinitperiod},
+           given={Niek},
+           giveni={N\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=d4c1e1e3caa25327e95838020797240d}{%
+           family={Nam},
+           familyi={N\bibinitperiod},
+           given={Hye-In},
+           giveni={H\bibinithyphendelim I\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d96564083bafc7cd68cd9bb251aa8221}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Jung-Gun},
+           giveni={J\bibinithyphendelim G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2c462c91f6e2c345e201f2795ecbe47c}{%
+           family={Pham},
+           familyi={P\bibinitperiod},
+           given={Kimberly},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=324981dce4ffc12a7ae3882f0596abcf}{%
+           family={Fiume},
+           familyi={F\bibinitperiod},
+           given={Elisa},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a6bb2c74f454866304dc23c9bcbac9b0}{%
+           family={Mudgett},
+           familyi={M\bibinitperiod},
+           given={Mary\bibnamedelima Beth},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f5563a93a1d72438a0ee9bb457178861}{%
+           family={Rhee},
+           familyi={R\bibinitperiod},
+           given={Seung\bibnamedelima Yon},
+           giveni={S\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Society of Plant Biologists}%
+      }
+      \strng{namehash}{02b9b4e33f5d3b133e2f83dc6b1a592f}
+      \strng{fullhash}{fec2d3ad6c1a6ba1dca2e0f15126a903}
+      \strng{bibnamehash}{c043d5958beb35cc1f3ad31ba8e6288f}
+      \strng{authorbibnamehash}{c043d5958beb35cc1f3ad31ba8e6288f}
+      \strng{authornamehash}{02b9b4e33f5d3b133e2f83dc6b1a592f}
+      \strng{authorfullhash}{fec2d3ad6c1a6ba1dca2e0f15126a903}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Plant physiology}
+      \field{number}{1}
+      \field{title}{A comprehensive analysis of microProteins reveals their potentially widespread mechanism of transcriptional regulation}
+      \field{volume}{165}
+      \field{year}{2014}
+      \field{pages}{149\bibrangedash 159}
+      \range{pages}{11}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
