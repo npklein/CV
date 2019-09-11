@@ -3,6 +3,10 @@
 *jpg
 *aux
 *gz
+*dvi
+*.aux
+*.bcf
+*.blg
 education.pdf
 employment.pdf
 misc.pdf
