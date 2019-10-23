@@ -25,6 +25,7 @@
   \usepackage[tracking=smallcaps]{microtype}
   \usepackage{fbb}
   \usepackage[type1]{cabin}
+  \usepackage[symbol]{footmisc}
   \usepackage[varqu,varl]{zi4}
   \useosf  %% Comment out if you prefer lining figures rather than old style figures
 \fi
@@ -35,6 +36,8 @@
 
 %% Specify your last name and first name (as given in the .bib) to automatically bold your own name in the publications list. One caveat: You need to write \bibnamedelima where there's a space in your name for this to work properly for now...
 \myname{Klein}{Niek}
+
+
 % Change the page margins if you want
 % \geometry{left=1cm,right=1cm,top=1.5cm,bottom=1.5cm}
 
@@ -57,8 +60,8 @@
   {\LARGE\bfseries\sffamily Niek de Klein}
 
   \makefield{\faEnvelopeO}{\texttt{niekdeklein@gmail.com}} \par
-  \makefield{\faGlobe}{\url{https://github.com/npklein}} \par
-  \makefield{\faGlobe}{\url{https://scholar.google.com/citations?user=QNwjBnwAAAAJ&hl}}
+  \makefield{\faGlobe}{\url{github.com/npklein}} \par
+  \makefield{\faGlobe}{\url{scholar.google.com/citations?user=QNwjBnwAAAAJ&hl}}
 
 }
 
@@ -75,17 +78,14 @@
 
 \makerubric{education}
 
+\makerubric{employment}
+
+% ap\makerubric{internships}
+
 \makerubric{teaching}
 %\makerubric{employment}
 
-\makerubric{internships}
-
 \makerubric{grants}
-
-
-% If you're not a researcher nor an academic, you probably don't have any publications; delete this line.
-%% Sometimes when a section can't be nicely modelled with the \entry[]... mechanism; hack our own and use \input NOT \makerubric
-\input{publications}
 
 \makerubric{misc}
 
@@ -93,5 +93,10 @@
 
 \makerubric{referee}
 % \input{referee-full}
+
+% If you're not a researcher nor an academic, you probably don't have any publications; delete this line.
+%% Sometimes when a section can't be nicely modelled with the \entry[]... mechanism; hack our own and use \input NOT \makerubric
+
+
 
 \end{document}
