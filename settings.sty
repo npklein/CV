@@ -103,21 +103,34 @@
 }
 
 
+
+% nesting ifs so that if mylastname + co-first, undeline + bold
+% else if my last name: bold
+% else: co-fist: underline
+% else: normal
 \renewcommand*{\mkbibnamefamily}[1]{%
-  \ifboolexpr{ test {\ifdefstrequal{\namepartfamily}{\@mylastname}}
-               and
-               test {\ifdefstrequal{\namepartgiven}{\@myfirstname}}}
-    {\textbf{#1}}%
-    {#1}%
+	\ifboolexpr{ test {\ifdefstrequal{\namepartfamily}{\@mylastname}}
+		and
+		test {\ifdefstrequal{\namepartgiven}{\@myfirstname}}
+		and
+		test {\ifitemannotation{jointfirst}}}
+	{\textbf{\underline{#1}}}%
+	{\ifboolexpr{ test {\ifdefstrequal{\namepartfamily}{\@mylastname}}
+			and
+			test {\ifdefstrequal{\namepartgiven}{\@myfirstname}}}
+	{\textbf{#1}}
+	{\ifitemannotation{jointfirst}
+		{\underline{#1}}
+		{#1}}}%
 }
 
-\renewcommand*{\mkbibnamegiven}[1]{%
-  \ifboolexpr{ test {\ifdefstrequal{\namepartfamily}{\@mylastname}}
-               and
-               test {\ifdefstrequal{\namepartgiven}{\@myfirstname}}}
-    {\textbf{#1}}%
-    {#1}%
-}
+
+
+
+
+
+
+
 
 \RequirePackage[colorlinks=true,allcolors=black,breaklinks=true]{hyperref}
 
