@@ -104,24 +104,19 @@
 
 
 
-% nesting ifs so that if mylastname + co-first, undeline + bold
-% else if my last name: bold
-% else: co-fist: underline
-% else: normal
 \renewcommand*{\mkbibnamefamily}[1]{%
-	\ifboolexpr{ test {\ifdefstrequal{\namepartfamily}{\@mylastname}}
+	\ifboolexpr{ test {\ifdefstrequal{\namepartfamily}{\@mylastname*}}
 		and
-		test {\ifdefstrequal{\namepartgiven}{\@myfirstname}}
-		and
-		test {\ifitemannotation{jointfirst}}}
+		test {\ifdefstrequal{\namepartgiven}{\@myfirstname}}}
 	{\textbf{\underline{#1}}}%
 	{\ifboolexpr{ test {\ifdefstrequal{\namepartfamily}{\@mylastname}}
 			and
 			test {\ifdefstrequal{\namepartgiven}{\@myfirstname}}}
-	{\textbf{#1}}
+	{\textbf{\underline{#1}}}
 	{\ifitemannotation{jointfirst}
 		{\underline{#1}}
-		{#1}}}%
+		{#1}}
+	}%
 }
 
 
